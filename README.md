@@ -23,3 +23,5 @@ Credit:
 DJI's Android SDK Sample application was used a starting point (https://github.com/dji-sdk/Mobile-SDK-Android). Most of the files within this repository are simply these files. 
 They could be safely deleted and are not a part of the project. However, they have been kept in as publishing code for the dissertation is only done to demonstrate proof of work.
 Surendra Maran's YOLOv8 Android detector was used as a reference point when developing this software (https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector).
+
+Author email: philip.mortimer.2021@bristol.ac.uk
